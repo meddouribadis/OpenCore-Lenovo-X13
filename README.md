@@ -1,0 +1,1 @@
+# OpenCore-Lenovo-X13
